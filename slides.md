@@ -77,7 +77,7 @@ By Thomas Findlay
 $ git clone https://github.com/ThomasFindlay/react-advanced-workshop-best-practices-and-patterns-for-managing-apis <br />
 $ git checkout api-fetch-requests/start <br />
 $ npm install <br />
-$ npm run dev <br />
+$ npm run start <br />
 </CodeBlock>
 
 ---
@@ -104,7 +104,7 @@ layout: center
 $ git clone https://github.com/ThomasFindlay/react-advanced-workshop-best-practices-and-patterns-for-managing-apis <br />
 $ git checkout api-fetch-requests/start <br />
 $ npm install <br />
-$ npm run dev <br />
+$ npm run start <br />
 </CodeBlock>
 
 ---
@@ -309,7 +309,8 @@ layout: center
 # Let's incorporate React-Query
 
 <CodeBlock>
-$ git checkout react-query/start<br /> 
+$ git checkout react-query/start<br />
+$ npm run start 
 </CodeBlock>
 
 ---
