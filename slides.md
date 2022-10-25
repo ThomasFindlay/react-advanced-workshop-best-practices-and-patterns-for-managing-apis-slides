@@ -35,7 +35,7 @@ By Thomas Findlay
 
 ---
 
-# About instructor - Thomas Findlay
+# About the instructor - Thomas Findlay
 
 - Full-Stack Web & Mobile Developer with 10 years of programming experience
 - Co-Owner of Findlay Web Tech
