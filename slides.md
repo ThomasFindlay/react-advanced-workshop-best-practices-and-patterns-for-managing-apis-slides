@@ -326,7 +326,7 @@ layout: center
 ---
 
 # Bonus Content 
-## API Layer + React-Query + React-Router Loaders & Actions
+## API Layer + React-Router Loaders & Actions
 
 ---
 
