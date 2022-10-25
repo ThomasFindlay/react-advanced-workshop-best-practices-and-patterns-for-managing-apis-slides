@@ -278,7 +278,7 @@ $ git checkout api-layer-cancellation/start
 
 - The API logic is encapsulated inside of the API layer and hides implementation details of the API layer
 - Consumers of the API layer only care about importing methods, providing input and receiving output
-- Can easily be enhanced with additional logic without affecting the rest of application code
+- Can easily be enhanced with additional logic without affecting the rest of the application code
 - Much easier to migrate from one http client to another, e.g. from `axios` to `fetch` 
 
 ---
