@@ -363,7 +363,7 @@ layout: center
 
 <div class="mt-4">
   <div class="mb-2">Slides:</div>
-  <a class="leading-relaxed" target="_blank" rel="noreferrer" href="https://react-advanced-workshop-best-practices-and-patterns-ngepcfqz2.vercel.app/1">https://react-advanced-workshop-best-practices-and-patterns-ngepcfqz2.vercel.app/1</a>
+  <a class="leading-relaxed" target="_blank" rel="noreferrer" href="https://react-advanced-workshop-best-practices-and-patterns.vercel.app/">https://react-advanced-workshop-best-practices-and-patterns.vercel.app/</a>
 </div>
 <div class="mt-3">
    <div class="mb-2">Workshop code:</div>
