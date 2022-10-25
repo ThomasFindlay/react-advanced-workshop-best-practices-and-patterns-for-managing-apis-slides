@@ -47,19 +47,19 @@ By Thomas Findlay
 
 # Workshop Content ( 1 / 3 )
 
-- Fetching & Posting data with Axios - the simple way.
-- API requests cancellation with Axios.
-- How to provide meaningful feedback to the users?
-- Questions...
+- Fetching & Posting data with Axios - the simple way
+- API requests cancellation with Axios
+- How to provide meaningful feedback to the users
+- Questions
 
 ---
 
 # Workshop Content ( 2 / 3 )
 
-- What is the API Layer and what problems does it solve?
+- What is the API Layer and what problems does it solve
 - Implementing the API Layer
 - API requests cancellation with the API Layer
-- Questions...
+- Questions
 
 ---
 
@@ -67,7 +67,7 @@ By Thomas Findlay
 
 - APIs at scale with API Layer and React-Query
 - Bonus - React-Router Loaders
-- Questions...
+- Questions
 
 ---
 
@@ -165,7 +165,7 @@ layout: center
 
 # Boolean flags - problems
 
-Each new API requests requires at least two additional states:
+Each new API request requires at least two additional states:
 ```js
 const [isLoadingQuotes, setIsLoadingQuotes] = useState(false) 
 const [isLoadingQuotesError. setIsLoadingQuotesError] = useState(false)
@@ -333,7 +333,7 @@ layout: center
 
 - Loaders and Actions are new features introduced in React Router 6.4 (Ported from Remix)
 - Data fetching and posting is coupled with the router rather than components
-- Allows to start loading data immediately upon entering a route instead of waiting for components to render and load. This helps with avoiding the waterfall effect.
+- Allows to start loading data immediately upon entering a route instead of waiting for components to render and load. This helps with avoiding the waterfall effect
 
 --- 
 layout: center
