@@ -23,7 +23,7 @@ drawings:
 # use UnoCSS
 css: unocss
 logoHeader: "https://theroadtoenterprise.com/images/logo-400x119.avif"
-website: "https://theroadtoenterprise.com"
+website: "findlaywebtech.com"
 handle: thomasfindlay94
 layout: intro
 introImage: "https://theroadtoenterprise.com/images/About.avif"
