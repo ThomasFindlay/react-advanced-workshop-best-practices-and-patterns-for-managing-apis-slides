@@ -329,7 +329,7 @@ layout: center
 
 ---
 
-# What are route the route loaders and what's the big deal?
+# What are route loaders and what's the big deal?
 
 - Loaders and Actions are new features introduced in React Router 6.4 (Ported from Remix)
 - Data fetching and posting is coupled with the router rather than components
