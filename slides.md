@@ -340,6 +340,13 @@ layout: center
 layout: center
 ---
 
+# Let's implement route loaders
+
+--- 
+layout: center
+---
+
+
 # Questions?
 
 ---
