@@ -45,7 +45,7 @@ By Thomas Findlay
 
 ---
 
-# Workshop Content - ( 1 / 3 )
+# Workshop Content ( 1 / 3 )
 
 - Fetching & Posting data with Axios - the simple way.
 - API requests cancellation with Axios.
@@ -350,9 +350,8 @@ layout: center
 
 <div>
 
-  - Twitter <br />
+- Twitter <br />
   https://twitter.com/thomasfindlay94
-
 - LinkedIn <br />
   https://www.linkedin.com/in/thomas-findlay/
 
@@ -362,13 +361,13 @@ layout: center
 - The Road To Enterprise <br />
   https://theroadtoenterprise.com/blog
 
-<div class="mt-8">
+<div class="mt-4">
   <div class="mb-2">Slides:</div>
-  <a class="leading-relaxed" target="_blank" rel="noreferrer" href="https://react-advanced-london-slides.vercel.app/">https://react-advanced-london-slides.vercel.app/</a>
+  <a class="leading-relaxed" target="_blank" rel="noreferrer" href="https://react-advanced-workshop-best-practices-and-patterns-ngepcfqz2.vercel.app/1">https://react-advanced-workshop-best-practices-and-patterns-ngepcfqz2.vercel.app/1</a>
 </div>
 <div class="mt-3">
-   <div class="mb-2">Slides and workshop code:</div>
-  <a class="leading-relaxed" target="_blank" rel="noreferrer" href="https://github.com/ThomasFindlay/react-advanced-london-managing-apis">https://github.com/ThomasFindlay/react-advanced-london-managing-apis</a>
+   <div class="mb-2">Workshop code:</div>
+  <a class="leading-relaxed" target="_blank" rel="noreferrer" href="https://github.com/ThomasFindlay/react-advanced-workshop-best-practices-and-patterns-for-managing-apis-slides">https://github.com/ThomasFindlay/react-advanced-workshop-best-practices-and-patterns-for-managing-apis-slides</a>
 </div>
 </div>
 
@@ -385,5 +384,4 @@ layout: center
 </div>
 
 </div>
-
 ---
