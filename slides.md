@@ -348,7 +348,7 @@ layout: center
 
 <div class="flex items-start">
 
-<div>
+<div class="basis-1/2">
 
 - Twitter <br />
   https://twitter.com/thomasfindlay94
@@ -371,7 +371,7 @@ layout: center
 </div>
 </div>
 
-<div class="right-col">
+<div class="basis-1/2">
   <span class="block mb-4"><span class="font-bold">React - The Road To Enterprise</span></span> 
   <span>Special gift for workshop attendees</span>
 
